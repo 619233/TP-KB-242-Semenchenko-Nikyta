@@ -10,5 +10,5 @@
 #text = 'hello, I from Spanish'
 #print(text.upper())
 
-text = 'Hello, I frOm Spanish'
-print(text.lower())
+#text = 'Hello, I frOm Spanish'
+#print(text.lower())

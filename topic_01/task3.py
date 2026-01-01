@@ -1,7 +1,5 @@
-# aX**2 + bX + c = 0
-# D = b**2 - 4ac
-
 #2x^2 + 7x - 4 = 0
+#D = 81
 
 def findD(a, b, c):
     D = b**2 - 4*a*c
@@ -12,4 +10,3 @@ b = int(input("b = "))
 c = int(input("c = "))
 
 print(findD(a, b, c))
-
